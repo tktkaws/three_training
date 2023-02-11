@@ -1,0 +1,14 @@
+<% let pageId = 'home'; %> <% let path = jsonData.pages[pageId].path %>
+<!DOCTYPE html>
+<html lang="ja">
+  <%- include('./common/_head', {pageId:pageId }) %>
+  <body class="home">
+    <div id="top" class="wrap" ontouchstart="">
+      <%- include('./common/_header', {pageId:pageId }) %>
+      <!-- main -->
+      <main class="l-main">main</main>
+      <!-- /main -->
+      <%- include('./common/_footer', {pageId:pageId }) %>
+    </div>
+  </body>
+</html>

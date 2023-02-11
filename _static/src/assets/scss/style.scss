@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/*--------------------------------------*
+ * foundation
+ *--------------------------------------*/
+@use "./foundation/base";
+@use "./foundation/variable";
+@use "./foundation/reset";
+@use "./foundation/function";
+@use "./foundation/global";
+
+/*--------------------------------------*
+* layout
+*--------------------------------------*/
+@use "./layout/header";
+@use "./layout/footer";
+@use "./layout/hero";
+
+/*-------------------
+* component
+-------------------*/
+@use "./object/component/button";
+
+/*-------------------
+  * project
+  -------------------*/
+@use "./object/project/company-access";
+
+/*-------------------
+  * utility
+  -------------------*/
+@use "./object/utility/display";
+/*-------------------
+  * lib
+  -------------------*/
+// @use "./lib/splide.min.css";
+// @use "./lib/swiper.min.css";
