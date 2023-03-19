@@ -1,5 +1,5 @@
-import jQuery from 'jquery';
-const $ = jQuery;
+// import jQuery from 'jquery';
+// const $ = jQuery;
 
-require('./modules/humburgerBtn');
-require('./modules/mvHeight');
+// require('./modules/humburgerBtn');
+// require('./modules/mvHeight');

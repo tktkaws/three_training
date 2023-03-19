@@ -11,11 +11,81 @@
       "slug": "../",
       "path": "./"
     },
-    "about": {
-      "name": "aboutページ",
-      "description": "aboutページの説明",
+    "training": {
+      "name": "training",
+      "description": "",
       "type": "article",
-      "slug": "about/about.html",
+      "slug": "training/index.html",
+      "path": "../"
+    },
+    "001": {
+      "name": "001",
+      "description": "",
+      "type": "article",
+      "slug": "training/001.html",
+      "path": "../../"
+    },
+    "002": {
+      "name": "002",
+      "description": "",
+      "type": "article",
+      "slug": "training/002.html",
+      "path": "../"
+    },
+    "003": {
+      "name": "003",
+      "description": "",
+      "type": "article",
+      "slug": "training/003.html",
+      "path": "../"
+    },
+    "004": {
+      "name": "004",
+      "description": "",
+      "type": "article",
+      "slug": "training/004.html",
+      "path": "../"
+    },
+    "005": {
+      "name": "005",
+      "description": "",
+      "type": "article",
+      "slug": "training/005.html",
+      "path": "../"
+    },
+    "006": {
+      "name": "006",
+      "description": "",
+      "type": "article",
+      "slug": "training/006.html",
+      "path": "../"
+    },
+    "007": {
+      "name": "007",
+      "description": "",
+      "type": "article",
+      "slug": "training/007.html",
+      "path": "../"
+    },
+    "008": {
+      "name": "008",
+      "description": "",
+      "type": "article",
+      "slug": "training/008.html",
+      "path": "../"
+    },
+    "009": {
+      "name": "009",
+      "description": "",
+      "type": "article",
+      "slug": "training/009.html",
+      "path": "../"
+    },
+    "010": {
+      "name": "010",
+      "description": "",
+      "type": "article",
+      "slug": "training/010.html",
       "path": "../"
     }
   }
